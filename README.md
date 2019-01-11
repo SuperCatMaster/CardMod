@@ -1,3 +1,2 @@
-# forMCModding
-Special for Bettagelza
-В общем, здесь я покажу как создать простой предмет. Надеюсь всё понятно.
+# Cards Mod
+This mod adds cards in your world, with you have amazing power
